@@ -1,0 +1,24 @@
+{
+  "name": "profitcalcjs",
+  "version": "1.4.0",
+  "description": "A small, simple NodeJS application used for DevOps training and workshops.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node calculator_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inedo/ProfitCalcJS.git"
+  },
+  "author": "Inedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inedo/ProfitCalcJS/issues"
+  },
+  "homepage": "https://github.com/inedo/ProfitCalcJS#readme",
+  "dependencies": {
+    "gui": "^0.6.3",
+    "parsecurrency": "^0.2.3"
+  }
+}
